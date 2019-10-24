@@ -1,0 +1,53 @@
+1.	Mean-time to production is
+  a.	How fast a new version of the application can be deployed into the production environment 
+  b.	The average time it takes from when new software features are required until they are running in production.
+  c.	How often a new release can be deployed into the production environment.
+  d.	How long it takes applications in the production stage to recover from failure
+
+2.	Average lead-time is
+  a.	How often software fails during production
+  b.	How long it takes for a new requirement to be delivered and deployed
+  c.	How fast a new version of the application can be deployed into the production environment
+  d.	The average time it takes from when new software features are required until they are running in production.
+
+3.	Production failure rate is
+  a.	How often software fails during production
+  b.	How long it takes for a new requirement to be delivered and deployed
+  c.	How fast a new version of the application can be deployed into the production environment
+  d.	The average time it takes from when new software features are required until they are running in production.
+
+4.	Mean-time to recovery is
+  a.	How fast a new version of the application can be deployed into the production environment 
+  b.	The average time it takes from when new software features are required until they are running in production.
+  c.	How often a new release can be deployed into the production environment.
+  d.	How long it takes applications in the production stage to recover from failure
+
+5.	Deployment speed is
+  a.	How fast a new version of the application can be deployed into the production environment 
+  b.	The average time it takes from when new software features are required until they are running in production.
+  c.	How often a new release can be deployed into the production environment.
+  d.	How long it takes applications in the production stage to recover from failure
+
+6.	Deployment frequency is
+  a.	How fast a new version of the application can be deployed into the production environment 
+  b.	The average time it takes from when new software features are required until they are running in production.
+  c.	How often a new release can be deployed into the production environment.
+  d.	How long it takes applications in the production stage to recover from failure
+
+7.	What is not a benefit of DevSecOps?
+  a.	Reduced mean-time to production
+  b.	Increased deployment frequency
+  c.	Fully automated risk characterization, monitoring, and mitigation across the application lifecycle
+  d.	Large software releases
+
+8.	Software updates and patching are accomplished
+  a.	Monthly
+  b.	When large software releases are completed
+  c.	At the speed of operations
+  d.	After a reviews have been completed by the approval authorities
+
+9.	What separates DevSecOps from other methodologies? 
+  a.	Automated testing
+  b.	Security and functional capabilities are tested and built simultaneously
+  c.	Short release cycles
+
