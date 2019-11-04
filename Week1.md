@@ -39,11 +39,11 @@ In addition, DevSecOps practice enables:
 
 ## Agile Software Development
 
-What is Agile?
+### What is Agile?
 Agile is the ability to create and respond to change. It is a way of dealing with, and ultimately succeeding in, an uncertain and turbulent environment.
 The authors of the Agile Manifesto chose “Agile” as the label for this whole idea because that word represented the adaptiveness and response to change which was so important to their approach.
 It’s really about thinking through how you can understand what’s going on in the environment that you’re in today, identify what uncertainty you’re facing, and figure out how you can adapt to that as you go along.
-What is Agile Software Development?
+### What is Agile Software Development?
 Agile software development is more than frameworks such as Scrum, Extreme Programming or Feature-Driven Development (FDD).
 Agile software development is more than practices such as pair programming, test-driven development, stand-ups, planning sessions and sprints.
 Agile software development is an umbrella term for a set of frameworks and practices based on the values and principles expressed in the Manifesto for Agile Software Development and the 12 Principles behind it. When you approach software development in a particular manner, it’s generally good to live by these values and principles and use them to help figure out the right things to do given your particular context.
@@ -53,13 +53,13 @@ That doesn’t mean that there aren’t managers. It means that teams have the a
 It means that those teams are cross-functional. Those teams don’t have to have specific roles involved so much as that when you get the team together, you make sure that you have all the right skill sets on the team.
 There still is a place for managers. Managers make sure team members have, or obtain, the right skill sets. Managers provide the environment that allows the team to be successful. Managers mostly step back and let their team figure out how they are going to deliver products, but they step in when the teams try but are unable to resolve issues.
 When most teams and organizations start doing Agile software development, they focus on the practices that help with collaboration and organizing the work, which is great. However, another key set of practices that are not as frequently followed but should be are specific technical practices that directly deal with developing software in a way that help your team deal with uncertainty. Those technical practices are essential and something you shouldn’t overlook.
-Agile is a Mindset
+### Agile is a Mindset
 Ultimately, Agile is a mindset informed by the values contained in the Agile Manifesto and the 12 Principles behind the Agile Manifesto. Those values and principles provide guidance on how to create and respond to change and how to deal with uncertainty.
 You could say that the first sentence of the Agile Manifesto encapsulates the whole idea: “We are uncovering better ways of developing software by doing it and helping others do it.”
 When you face uncertainty, try something you think might work, get feedback, and adjust accordingly.
 Keep the values and principles in mind when you do this. Let your context guide which frameworks, practices, and techniques you use to collaborate with your team and deliver value to your customers.
 
-What are Agile Methodologies?
+### What are Agile Methodologies?
 If Agile is a mindset, then what does that say about the idea of Agile methodologies? To answer this question, you may find it helpful to have a clear definition of methodology.
 Alistair Cockburn suggested that a methodology is the set of conventions that a team agrees to follow. That means that each team is going to have its own methodology, which will be different in either small or large ways from every other team’s methodology.
 So Agile methodologies are the conventions that a team chooses to follow in a way that follows Agile values and principles.
@@ -70,7 +70,7 @@ The Agile Manifesto and the 12 Principles were written by a group of software de
 When you do that, Agile becomes an adjective. It describes the way in which you perform some activity. It does not create a new methodology for the reasons explained above.
 When you want to understand Agile project management, ask “How might we perform project management in a way that allows us to create and respond to change and deal with uncertainty?” Agile Alliance and Project Management Institute (PMI) explored this question through a joint effort to create the Agile Practice Guide (Available to Agile Alliance Members).
 When you want to understand Agile business analysis, ask “How might we perform business analysis in a way that allows us to create and respond to change and deal with uncertainty?” Agile Alliance and International Institute of Business Analysis (IIBA) explored this question through a joint effort to create the Agile Extension to the Business Analysis Body of Knowledge (Available to Agile Alliance Members).
-What about Business Agility?
+### What about Business Agility?
 The two concepts noted above are examples of an attempt to move Agile “outside of software.” Those efforts have resulted recently in the Business Agility movement.
 If you extend the idea of Agile as a mindset, then people seeking Business Agility ask themselves, “How might we structure and operate our organization in a way that allows us to create and respond to change and deal with uncertainty?”
 You might say that business agility is a recognition that in order for people in an organization to operate with an Agile mindset, the entire organization needs to support that mindset. Agile software development was never truly Agile until the organization changed its structure and operations to work in an uncertain environment.
