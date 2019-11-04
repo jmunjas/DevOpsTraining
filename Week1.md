@@ -36,3 +36,11 @@ In addition, DevSecOps practice enables:
 - Increased deployment frequency: how often a new release can be deployed into the production environment;
 - Fully automated risk characterization, monitoring, and mitigation across the application lifecycle;
 - Software updates and patching at "the speed of operations".
+
+## Agile Software Development
+
+
+
+### Due this week
+- Sprint 1 quiz
+- User Stories
