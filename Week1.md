@@ -75,7 +75,48 @@ The two concepts noted above are examples of an attempt to move Agile “outside
 If you extend the idea of Agile as a mindset, then people seeking Business Agility ask themselves, “How might we structure and operate our organization in a way that allows us to create and respond to change and deal with uncertainty?”
 You might say that business agility is a recognition that in order for people in an organization to operate with an Agile mindset, the entire organization needs to support that mindset. Agile software development was never truly Agile until the organization changed its structure and operations to work in an uncertain environment.
 
+## User Stories
+### How do we write user stories?
+A user story often follows the following ‘equation’:
+As a <type of user>, I want <some feature> so that <some reason>
+Let’s break this down one step further;
+As a <type of user> — this is the WHO. Who are we building this for? Who is the user?
+I want <some feature> — this is the WHAT. What are we building? What is the intention?
+so that <some reason> — this is they WHY. Why are we building it? What is the value for the customer?
 
+Let’s look at a few simple examples;
+As an internet banking customer
+I want to see a rolling balance for my everyday accounts
+So that I can keep track of my spending after each transaction is applied
+OR
+As an administrator
+I want to be able to create other administrators for certain projects
+So that I can delegate tasks more efficiently
+
+### “Why can’t we just write features or tasks instead?”
+And it’s a great question. Though most teams asking this question, usually don’t understand the value of writing user stories, and the fact that they serve very different purposes to that of features.
+
+The fact is, it’s easy to get buried in a contextless, feature developing cycle. The objective becomes more about clearing your way through a laundry list backlog, than it is about building solutions that add value to your customers. Your human customers. User stories bring that context and perspective into the development cycle.
+
+### Acceptance Criteria
+User stories allow teams to have one hand on the needs, wants and values of their customers, and another, on the activities they need to accomplish to provide that value.
+The link pairing these two things together, is acceptance criteria.
+Acceptance Criteria or ‘conditions of satisfaction’, provide a detailed scope of a user’s requirements. They help the team to understand the value of the story and set expectations as to when a team should consider something done.
+- Acceptance Criteria Goals
+to clarify what the team should build before they start work
+to ensure everyone has a common understanding of the problem/need of the customer
+to help team members know when the story is complete
+to help verify the story via automated tests
+Let’s look at an example of a completed user story with acceptance criteria;
+| As a potential conference attendee, I want to be able to register for the conference online, so that registration is simple and paperless.
+- Acceptance Criteria:
+Conference Attendance Form
+A user cannot submit a form without filling out all of the mandatory fields (First Name, Last Name, Company Name, Email Address, Position Title, Billing Information)
+Information from the form is stored in the registrations database
+Protection against spam is working
+Payment can be made via Paypal, Debit or Credit Cards
+An acknowledgement email is sent to the attendee after submitting the form
+With this in mind, teams should make sure that their acceptance criteria is ticking all of the following boxes;
 ### Due this week
 - Sprint 1 quiz
 - User Stories
