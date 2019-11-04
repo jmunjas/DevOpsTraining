@@ -1,12 +1,14 @@
 # DevSecOps
 Throughout this course we will be going over DevSecOps fundimentals, Agile software principals, Continuous Itegration/Continuous Delivery, containerization and Cyber Security basics.
 
-## sylybus
+## syllabus
 
 ### Intro to DevSecOps
 - Purpose
 - Assumptions
 - Principles
+
+### Agile 101
 
 ### DevSecOps Concepts
 - keyterms
