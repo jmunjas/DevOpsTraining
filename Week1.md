@@ -79,11 +79,11 @@ You might say that business agility is a recognition that in order for people in
 ### How do we write user stories?
 A user story often follows the following ‘equation’:
 
-As a <type of user>, I want <some feature> so that <some reason>
-Let’s break this down one step further;
-As a <type of user> — this is the WHO. Who are we building this for? Who is the user?
-I want <some feature> — this is the WHAT. What are we building? What is the intention?
-so that <some reason> — this is they WHY. Why are we building it? What is the value for the customer?
+- As a `<type of user>`, I want `<some feature>` so that <some reason>
+- Let’s break this down one step further;
+- As a `<type of user>` — this is the WHO. Who are we building this for? Who is the user?
+- I want `<some feature>` — this is the WHAT. What are we building? What is the intention?
+- so that `<some reason>` — this is they WHY. Why are we building it? What is the value for the customer?
 
 Let’s look at a few simple examples;
 As an internet banking customer
