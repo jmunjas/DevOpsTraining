@@ -1,4 +1,4 @@
-# Week One DevSecOps
+# Sprint One DevSecOps
 
 ## DevSecOps 101
 
